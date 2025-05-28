@@ -26,7 +26,7 @@
     </div>
 
     <div class="image-wrapper">
-      <img alt="logo" src="./assets/dclık.jpg" class="header-image" />
+      <img alt="logo" src="./assets/logo3.jpg" class="header-image" />
     </div>
 
     <div id="APP">
