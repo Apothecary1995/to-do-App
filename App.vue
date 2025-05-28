@@ -20,7 +20,7 @@
         type="text"
         v-model="chatInput"
         @keydown.enter="sendMessage"
-        placeholder="Type a message..."
+        placeholder="Bura mesaj Yazılıp DURU GARİ..."
         class="chat-input"
       />
     </div>
